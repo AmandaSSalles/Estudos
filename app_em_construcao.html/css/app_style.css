@@ -1,0 +1,51 @@
+body{
+	background-color:#fff; /* lavender blush */
+	color: #686868; /* #2f4f4f dark slate gray */
+}
+.container{
+	color: #686868; /* #f0f8ff alice blue*/
+	width: 100%;
+	font-family: Brush Script MT;
+	font-weight: normal;
+	font-size: 20px;
+}
+/* usar % porcentagem para os valores de margem */
+.box-1{
+	background-color:#8fbc8f;
+	padding: 5px;
+}
+
+table{
+	background-color: pink;
+	border: 1px solid;
+	border-collapse: collapse;
+	color: #f0f8ff; /* cor = alice blue */
+	font-family: Helvetica;	
+	
+}
+th,td{
+	padding: 10px;
+	text-align: center; 	
+}
+#t01{
+	background-color:#008b8b;
+	width: 100%;
+}
+a:link {
+	color: #f0f8ff;
+	background-color: transparent;
+	text-decoration: none;
+}
+a:visited {
+	color: #f0f8ff;
+	background-color: transparent;
+	text-decoration: none;
+}
+.obj, h3 {
+	width: 100%;
+	margin-right: 10px;
+	text-align: center;
+}
+
+
+
