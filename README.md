@@ -1,5 +1,5 @@
 # Hello-World
-My repository while learning python 
+My repository while learning
 'Hello everybody!
 \n
 I'm writing  here to learn how this thing work.
